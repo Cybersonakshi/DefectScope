@@ -1,4 +1,3 @@
-# DefectScope
 # AI-Based Industrial Surface Defect Detection and Classification Using Digital Image Processing
 
 A B.Tech Digital Image Processing project. A web application runs steel-surface images through an
